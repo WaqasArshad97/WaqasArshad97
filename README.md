@@ -105,7 +105,7 @@ Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full ti
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- 
+ <br>
    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
     
