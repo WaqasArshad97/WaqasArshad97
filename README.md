@@ -1,7 +1,7 @@
 <h3>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/></h3>
 
 <a href="">
-  <a align="left" alt="Twitter" width="22px" href="https://www.flaticon.com/free-icons/tweet" title="tweet icons">
+  <img src="https://www.flaticon.com/free-icons/tweet" alt="css3" width="40" height="40"/>
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waqas-arshad-849a77268">
   <img align="left" alt="Waqas's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
