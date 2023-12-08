@@ -48,10 +48,11 @@
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23066300/waqas-arshad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23066300/waqas-arshad" height="30" width="40" /></a>
     
-<a href="https://instagram.com/https://www.instagram.com/waqasarshad5678/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/waqasarshad5678/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/waqasarshad5678/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/waqasarshad5678/" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">٭٭Languages and Tools:٭٭</h3>
 <p align="left"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
