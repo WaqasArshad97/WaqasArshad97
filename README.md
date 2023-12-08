@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/21bb4514-ad4b-44bc-ade4-4c54642559c2" height="30" width="40"/>, I'm Waqas Arsahd</h1>
+<h1 align="center">Hi <img src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/2663cca3-a790-420c-8470-054229d1d77e" height="40" width="40"/>, I'm Waqas Arsahd</h1>
 <h3 align="center">A passionate frontend developer from Lahore pakistan.</h3>
 
 <img align="center" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/d8392eae-4eb5-4721-a387-cf701cfed077" alt="figma" width="600" height="400"/>
