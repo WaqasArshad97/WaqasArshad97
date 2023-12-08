@@ -102,7 +102,7 @@ Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full ti
   
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-   <br>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
@@ -111,6 +111,7 @@ Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full ti
     
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+   <br>
   
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
