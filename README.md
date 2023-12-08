@@ -114,7 +114,7 @@ Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full ti
 
 <hr/>
 
-<summary>: 📈 My GitHub Stats</summary>
+<h2> My GitHub Stats </h2>
    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasarshad97&theme=dark&show_icons=true&locale=en&layout=compact" alt="waqasarshad97" />
 
