@@ -1,7 +1,7 @@
 <h3>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="css3" width="40" height="40"/></h3>
 
 <a href="">
-  <img align="left" alt="Twitter" width="22px" src="https://www.flaticon.com/free-icon/twitter_5968830?term=twitter+logo&page=1&position=4&origin=search&related_id=5968830" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/WaqasArshad97/DiceGame/assets/140519770/23d48e98-da88-4e94-95a0-63b6c4268b6c" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waqas-arshad-849a77268">
   <img align="left" alt="Waqas's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
@@ -19,9 +19,9 @@
 
 <h3>A passionate frontend developer from Pakistan</h3>
 
-<img align="right" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/b4ce3f35-fdc7-4c15-aedf-de4c40dcc355" alt="figma" width="600" height="400"/>
+<p>Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.</p><p>Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.</p>
 
-<p>Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.</p>
+<img align="right" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/b4ce3f35-fdc7-4c15-aedf-de4c40dcc355" alt="figma" width="600" height="400"/>
 
 - 🔭 I’m currently working on **MERN Stack**
 
