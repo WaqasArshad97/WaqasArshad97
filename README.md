@@ -3,6 +3,11 @@
 <a href="">
   <img align="left" alt="Waqas's LinkedIn" width="22px" src="https://github.com/WaqasArshad97/DiceGame/assets/140519770/9a5bf99d-7149-4004-938c-bb492c2c238c" alt="twiter-logo"/>
 </a>
+
+<a href="https://www.fiverr.com/smartaiengineer"> <img align="left" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="waqas-fiverr" width="22px" /></a> 
+
+<a href=""> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="waqas-upwork" width="22px" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/waqas-arshad-849a77268">
   <img align="left" alt="Waqas's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
