@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50" width="50"/>, I'm Waqas Arsahd</h1>
 <h3 align="center">A passionate frontend developer from pakistan.</h3>
 
-<img align="center" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/d8392eae-4eb5-4721-a387-cf701cfed077" alt="figma" width="600" height="400"/>
+<img align="right" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/d8392eae-4eb5-4721-a387-cf701cfed077" alt="figma" width="600" height="400"/>
 
 - 🔭 I’m currently working on **MERN Stack**
 
