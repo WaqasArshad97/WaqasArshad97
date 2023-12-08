@@ -26,7 +26,7 @@
 
 Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer, Freelancer at [<img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="waqas-fiverr" width="16" height="19" />](https://www.fiverr.com/smartaiengineer) <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="waqas-upwork" width="16" height="19" /> and Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.
 
-<img align="right" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/b4ce3f35-fdc7-4c15-aedf-de4c40dcc355" alt="figma" width="600" height="400"/>
+<img align="right" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/b4ce3f35-fdc7-4c15-aedf-de4c40dcc355" alt="figma" width="500" height="300"/>
 
 - 🔭 I’m currently working on **MERN Stack**
 
