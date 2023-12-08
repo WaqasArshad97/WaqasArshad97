@@ -111,3 +111,14 @@ Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full ti
     
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+
+<hr/>
+
+  <summary>: 📈 My GitHub Stats</summary>
+  <br>
+   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasarshad97&theme=dark&show_icons=true&locale=en&layout=compact" alt="waqasarshad97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqasarshad97&theme=dark&show_icons=true&locale=en" alt="waqasarshad97" /></p>
+
+<hr/>
