@@ -19,7 +19,7 @@
 
 <h3>A passionate frontend developer from Pakistan</h3>
 
-<p>Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.</p><p>Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer🧑🏻‍💻 and i'm an Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.</p>
+<p>Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer and i'm an Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.</p>
 
 <img align="right" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/b4ce3f35-fdc7-4c15-aedf-de4c40dcc355" alt="figma" width="600" height="400"/>
 
