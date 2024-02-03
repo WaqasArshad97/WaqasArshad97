@@ -8,12 +8,12 @@
   <img align="left" alt="Waqas's LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 
-<a href="">
+<a href="https://www.instagram.com/waqasarshad5678/">
   <img align="left" alt="Waqas's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
 </a>
 
-<a href="">
-  <img align="left" alt="Waqas's Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
+<a href="https://www.facebook.com/waqasarshad">
+  <img align="left" alt="Waqas Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
 </a>
 
 <a href="https://www.fiverr.com/smartaiengineer"> <img align="left" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="waqas-fiverr" width="22px" /></a> 
@@ -22,39 +22,39 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqasarshad97&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<h3>A passionate frontend developer from Pakistan</h3>
+<h3>A MERN Stack Developer from Pakistan</h3>
 
-Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full time Jr. Software Engineer, Freelancer at [<img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="waqas-fiverr" width="16" height="19" />](https://www.fiverr.com/smartaiengineer) <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="waqas-upwork" width="16" height="19" /> and Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.
+Hi, Welcome, I'm glad to see you on my github profile. Myself Waqas, a MERN Stack developer 🚀 from Pakistan. Currently, i'm a full time MERN Stack developer, Freelancer at [<img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="waqas-fiverr" width="16" height="19" />](https://www.fiverr.com/smartaiengineer) <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="waqas-upwork" width="16" height="19" /> and Open Source contributer. Beside's programming, I enjoy books reading, self learning, eating food and traveling.
 
 <img align="right" src="https://github.com/WaqasArshad97/BrandPage-Using-React/assets/140519770/b4ce3f35-fdc7-4c15-aedf-de4c40dcc355" alt="figma" width="500" height="300"/>
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **NodeJs, NextJs**
+- 🌱 I’m currently learning **NodeJs, Express Js and MongoDb**
 
-- 👯 I’m looking to collaborate on **Fontend Development**
+- 👯 I’m looking to collaborate on **Fontend Development and backend with NodeJs**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **MERN Stack Application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WaqasArshad97](https://github.com/WaqasArshad97)
+- 👨‍💻 All of my projects are available  [Here](https://github.com/WaqasArshad97)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/waqas-arshad-849a77268/](https://www.linkedin.com/in/waqas-arshad-849a77268/)
+- 📝 I regularly write articles  [Here](https://www.linkedin.com/in/waqas-arshad-849a77268/)
 
-- 💬 Ask me about **Html, Css, JavaScript, ReactJs, Tailwind, Bootstrap, NodeJs**
+- 💬 Ask me about **Html, Css, JavaScript, ReactJs, Tailwind, Bootstrap, NodeJs, Express Js, Mongodb**
 
 - ⚡ Fun fact **Current Focus on learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/waqas-arshad-849a77268/" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/waqas-arshad-849a77268/" height="30" width="40" />
+<a href="https://www.linkedin.com/in/waqas-arshad-849a77268/" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Waqas-Linkedin" height="30" width="40" />
 </a>
 
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23066300/waqas-arshad" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23066300/waqas-arshad" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/23066300/waqas-arshad" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Waqas-StackOverFlow" height="30" width="40" /></a>
     
-<a href="https://instagram.com/https://www.instagram.com/waqasarshad5678/" target="blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/waqasarshad5678/" height="30" width="40" />
+<a href="https://www.instagram.com/waqasarshad5678/" target="blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Waqas-Instagram" height="30" width="40" />
 </a>
 </p>
 </br>
@@ -64,7 +64,7 @@ Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full ti
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -114,7 +114,7 @@ Hi, I'm Waqas, a Frontend developer 🚀 from Pakistan, currently, I'm a full ti
 
 <hr/>
 
-<h2> My GitHub Stats </h2>
+<h2> My GitHub Stats : </h2>
    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waqasarshad97&theme=dark&show_icons=true&locale=en&layout=compact" alt="waqasarshad97" />
 
