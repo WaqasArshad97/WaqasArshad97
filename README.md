@@ -12,7 +12,7 @@
   <img align="left" alt="Waqas's Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
 </a>
 
-<a href="https://www.facebook.com/waqasarshad">
+<a href="https://www.facebook.com/waqas.arshad.507464">
   <img align="left" alt="Waqas Facebook" height="22px" src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" />
 </a>
 
